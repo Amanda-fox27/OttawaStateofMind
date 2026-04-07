@@ -19,7 +19,7 @@ const Navbar = {
       <ul class="nav-links" :class="{ active: isActive }">
         <li><a href="index.html">Home</a></li>
         <li><a href="events.html">Events</a></li>
-        <li><a href="music.html">Music</a></li>
+        <li><a href="Music.html">Music</a></li>
         <li><a href="merch.html">Merch</a></li>
         <li><a href="about.html">About</a></li>
       </ul>
